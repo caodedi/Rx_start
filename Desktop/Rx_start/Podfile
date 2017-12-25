@@ -1,0 +1,8 @@
+platform :ios, '8.0'
+target 'Rx_start' do
+use_frameworks!
+pod 'SVProgressHUD'
+pod 'RxSwift'
+pod 'RxCocoa'
+pod 'RxDataSources'
+end
